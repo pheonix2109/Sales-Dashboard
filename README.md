@@ -3,3 +3,4 @@ Incorporated data analysis techniques, specializing in time series analysis, to 
 
 ![alt text](https://github.com/pheonix2109/Sales-Dashboard/blob/main/superstoreSalesAnalysis_Main.png?raw=true)
 
+![alt text](https://github.com/pheonix2109/Sales-Dashboard/blob/main/superstoreSalesAnalysis_Forecasting.png?raw=true)
